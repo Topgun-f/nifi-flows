@@ -232,7 +232,22 @@
         "labels" : [ ],
         "maxConcurrentTasks" : 1,
         "name" : "write_in_duckdb",
-        "outputPorts" : [ ],
+        "outputPorts" : [ {
+          "allowRemoteAccess" : false,
+          "componentType" : "OUTPUT_PORT",
+          "concurrentlySchedulableTaskCount" : 1,
+          "groupIdentifier" : "dc449791-6335-36c4-a4f1-a27b51c778c6",
+          "identifier" : "45288ca7-0af5-3eba-a758-0dc92ebf1805",
+          "instanceIdentifier" : "70d7cde7-0194-1000-7837-439bb7a4ee1b",
+          "name" : "output test",
+          "portFunction" : "STANDARD",
+          "position" : {
+            "x" : 1002.8364544346377,
+            "y" : -558.7705752746008
+          },
+          "scheduledState" : "ENABLED",
+          "type" : "OUTPUT_PORT"
+        } ],
         "position" : {
           "x" : 1008.0,
           "y" : -776.0
