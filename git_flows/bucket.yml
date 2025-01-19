@@ -1,6 +1,5 @@
 flows:
-  23ad7c0e-22e0-4411-9676-f26fdd444d28: {ver: 2, file: git_flow.snapshot, comments: test
-      ajout ouput port, author: anonymous, created: 1737060001850, flowName: git flow,
-    flowDesc: git flow}
+  23ad7c0e-22e0-4411-9676-f26fdd444d28: {ver: 3, file: git_flow.snapshot, comments: 'postgres ',
+    author: anonymous, created: 1737249083043, flowName: git flow, flowDesc: git flow}
 layoutVer: 1
 bucketId: 25081322-91dd-44b2-b75e-1271177d9b10
