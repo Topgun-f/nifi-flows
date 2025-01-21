@@ -434,8 +434,8 @@
           "name" : "LogAttribute",
           "penaltyDuration" : "30 sec",
           "position" : {
-            "x" : 2100.917954806898,
-            "y" : -907.2432356645319
+            "x" : 2176.0,
+            "y" : -880.0
           },
           "properties" : {
             "character-set" : "UTF-8",
